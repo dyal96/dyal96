@@ -40,7 +40,28 @@
 
 ## 📌 Highlighted Projects
 
-> 🚧 *Still curating cool things... stay tuned!*
+- [Personal Accounting App ](https://github.com/dyal96/flow)
+- [FFMPEG GUI and Automations](https://github.com/dyal96/ffmpeg)
+- [Custom Wordlist Generator](https://github.com/dyal96/Custom-Wordlist-Generator) 
+
+YT Tools
+- [Video Downloader](https://github.com/dyal96/YouTube_Video_Downloader)
+- [Thumbnail Downloader](https://github.com/dyal96/YouTube-Thumbnail-Downloader)
+- [Custom YT Tags Generator](https://github.com/dyal96/YouTube-Tags) 
+- [Content Planner](https://github.com/dyal96/Content-Calendar)
+
+Windows 
+- [Batch Automations ](https://github.com/dyal96/Batch-Programs)
+- [Drag Drop Automations](https://github.com/dyal96/Batch-Image-to-Video-Generator)
+- [Corel Draw](https://github.com/dyal96/CorelDraw_Macro)
+
+
+Chrome Plugins
+- [File Fetcher ](https://github.com/dyal96/file-fetcher-plugin)
+- [Matrix To-Do](https://github.com/dyal96/todo-plugin)
+- [PDF Fetch](https://github.com/dyal96/pdf-link-fetcher-plugin)
+- [WhatApp Automations](https://github.com/dyal96/WhatsApp-chrome-plugin)
+- [Kanban](https://github.com/dyal96/todo)
 
 ---
 
