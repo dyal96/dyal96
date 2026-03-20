@@ -41,6 +41,8 @@
 ## 📌 Highlighted Projects
 
 - [Personal Accounting App ](https://github.com/dyal96/flow)
+- [Invoice Maker](https://dyal96.github.io/InvoiceMaker)
+- [Stock Analyzer ](https://dyal96.github.io/Stock)
 - [FFMPEG GUI and Automations](https://github.com/dyal96/ffmpeg)
 - [Custom Wordlist Generator](https://github.com/dyal96/Custom-Wordlist-Generator) 
 
